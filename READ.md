@@ -4,3 +4,5 @@ This is the first file in repo.
 
 ## Ipsum Below
 Text for second commit
+
+Text for third commit
